@@ -1,0 +1,7 @@
+# Ignore executables files and build artifacts.
+*
+!*/
+!*.cpp
+!*.h
+!*.md
+!*.gitignore
