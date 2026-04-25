@@ -2,7 +2,7 @@
 
 Learning my ability in C++ and improve my english.
 
-# GOAL:
+## GOALS:
 
 - Improve my ENGLISH -
-- Learning C++
+- Learn C++
